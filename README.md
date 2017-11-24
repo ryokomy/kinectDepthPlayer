@@ -5,7 +5,7 @@ you can also saves ply files (pointcloud) to see them using application like mes
 ## OS
 mac
 
-## just use this app
+## How to use (just use this app)
 1. clone repository
 ```
 git clone https://github.com/RyoheiKomiyama/kinectDepthPlayer.git
@@ -23,5 +23,5 @@ togle view: depth image <-> pointcloud
 - 's' key
 save ply files corresponding to all files in chosen directory
 
-## develop
+## Develop
 this code is developed using openframeworks.
