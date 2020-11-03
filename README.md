@@ -1,6 +1,7 @@
 # kinectDepthPlayer
 play kinectV2 depth data recorded using https://github.com/RyoheiKomiyama/kinectDepthRecorder  
 you can also saves ply files (pointcloud) to see them using application like meshlab.
+[![](https://i.gyazo.com/0f4c83f5fb43bf2f37d34e85184a66f6.gif)](https://gyazo.com/0f4c83f5fb43bf2f37d34e85184a66f6)
 
 ## OS
 mac
